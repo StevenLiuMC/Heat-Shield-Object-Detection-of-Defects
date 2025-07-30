@@ -61,9 +61,9 @@ This system automatically calculates and displays your live production performan
 
 ## Screenshots
 - Defect detected on the metal part.
-![Defect detection result](software image screenshot/running test defect sample.png)
+![Defect detection result](https://github.com/StevenLiuMC/Heat-Shield-Object-Detection-of-Defects/blob/main/Detection%20Software%20v1/software%20image%20screenshot/running%20test%20defect%20sample.png)
 - Good metal part
-![Good result](software image screenshot/running test good.png)
+![Good result](https://github.com/StevenLiuMC/Heat-Shield-Object-Detection-of-Defects/blob/main/Detection%20Software%20v1/software%20image%20screenshot/running%20test%20good.png)
 
 ---
 
@@ -164,6 +164,11 @@ python run.py
   -  Good
   -  Defect Detected (based on detection confidence)
 
+### Academic Validation Results
+- Impact of Data Augmentation
+![Impact of Data Augmentation](https://github.com/StevenLiuMC/Heat-Shield-Object-Detection-of-Defects/blob/main/Impact%20of%20Data%20Augmentation%20on%20mAP%2C%20Average%20Precision%20and%20Recall.png)
+- Model Performance Comparison
+![Model Performance Comparison](https://github.com/StevenLiuMC/Heat-Shield-Object-Detection-of-Defects/blob/main/Model%20Performance%20Comparison%20Based%20on%20mAP%2C%20Precision%20and%20Recall.png)
 
 # Ready to transform your production line?
 - Get started with **smart**, **automated** defect detection system!
