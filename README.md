@@ -47,7 +47,7 @@ This system automatically calculates and displays your live production performan
 - **Quality**: Measures how many parts are defect-free
 - **OEE Score**: Combined score of the above, shown live on the dashboard
 
- For a full explanation of how OEE is calculated and interpreted, see the [What is OEE?](#-what-is-oee) section below.
+ For a full explanation of how OEE is calculated and interpreted, see the [What is OEE?](#what-is-oee) section below.
 
 ### 6. Log Downtime
 - Record the reason and duration for any unexpected stoppages
